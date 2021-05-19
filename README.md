@@ -13,3 +13,5 @@ At the top level of this repository you will find an index sheet for each icon s
 These icons are free for your use under the GNU LGPL (https://www.gnu.org/licenses/lgpl-3.0.txt).  That means that you can use them for both commercial and non-commercial purposes without restriction.  If you do modify them or make improvements, we ask that you do as we have done and make your updates available under an open source license so that everyone can use them freely.  (Of course, under the LGPL, that is your decision.)
 
 ![Set 1 Monochrome] https://github.com/visualcrossing/WeatherIcons/raw/main/1st%20Set%20-%20Mono%20-%20Index.png
+![Set 1 Monochrome] https://i.imgur.com/Bt9qWzm.png
+
